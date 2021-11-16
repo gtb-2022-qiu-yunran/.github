@@ -4,9 +4,9 @@ It is always good to do some practice.
 Life comes with difficulties and we have to do sth or perhaps not. 
 
 
-## Went to far away, now self introduction.
+## Went too far away, now self introduction.
 My name is Yunran Qiu and I go by the name of Cedric. 
- I will get my master degree in U of T 
+I will get my master degree in U of T 
 
 
 ## Think about a selfie? No way.
