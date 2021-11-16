@@ -12,6 +12,7 @@ I will get my master degree in U of T
 ## Think about a selfie? No way.
 But a picture is required. So here we go. 
 
+![alt text](http://url/to/img.png)
 
 Me playing PES on the VIA train.
 Confidence comes with waering mask. 
