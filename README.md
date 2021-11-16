@@ -1,2 +1,2 @@
 # .github
-Just say th
+Just say sth
